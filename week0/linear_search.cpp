@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<iostream>
 #include<math.h>
 using namespace std;
 int linear(int arr[],int n,int k,int &count)
